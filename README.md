@@ -5,11 +5,11 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Array
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -22,7 +22,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
@@ -64,11 +64,11 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Linked List
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
@@ -76,7 +76,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ## Matrix
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
